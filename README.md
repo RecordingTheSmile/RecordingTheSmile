@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RecordingTheSmile
+- 👀 I’m interested in Go,Rust,C#,Java,PHP,Javascript
+- 🌱 I’m currently using Rust
